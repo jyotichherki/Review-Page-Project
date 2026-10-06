@@ -1,0 +1,45 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name":"jyoti",
+      "job":"frontend Developer",
+      "image":"https://randomuser.me/api/portraits/women/74.jpg",
+      "text":"angular signals make state managemenet super easy"
+    },
+     {
+      "id": 2,
+      "name":"novya",
+      "job":"UI Designer",
+      "image":"https://randomuser.me/api/portraits/women/11.jpg",
+      "text":"this review slider project is very beginner friendly"
+    },
+     {
+      "id": 3,
+      "name":"jiya",
+      "job":"software engineer",
+      "image":"https://randomuser.me/api/portraits/women/26.jpg",
+      "text":"using signals feels clean and modern in Angular"
+    },
+     {
+      "id": 4,
+      "name":"jyoti",
+      "job":"Angular Developer",
+      "image":"https://randomuser.me/api/portraits/women/31.jpg",
+      "text":"Perfect project for portfolies  and interviews"
+    },
+     {
+      "id": 5,
+      "name":"kosha",
+      "job":"full stack  Developer",
+      "image":"https://randomuser.me/api/portraits/women/63.jpg",
+      "text":"Perfect project work and database managemenets"
+    }
+  
+  
+    
+
+
+
+  ]
+}
